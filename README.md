@@ -34,5 +34,5 @@ This handbook was created in Dec 2023 in order to storing and systemizing the ne
 	- [Reinforcement learning](./Machine%20learning%20algorithm/Reinforcement%20learning/README.md)
 		- [Unknown algorithm](./Machine%20learning%20algorithm/Reinforcement%20learning/Unknown%20algorithm.md)
 5. [Engineering](./Engineering/README.md)
-	- [Deploy model](./Engineering/Deploy model/README.md)
-		- [Render](./Engineering/Deploy model/Render.md)
+	- [Deploy model](./Engineering/Deploy%20model/README.md)
+		- [Render](./Engineering/Deploy%20model/Render.md)
