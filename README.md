@@ -27,7 +27,7 @@ This handbook was created in Dec 2023 in order to storing and systemizing the ne
 			- [Logistic regression](Logistic%20regression.md)
 		- [Regression](Permanent%20notes/04-Machine%20learning%20algorithm/01-Supervised%20learning/Regression/README.md)
 			- [Linear regression](Permanent%20notes/04-Machine%20learning%20algorithm/01-Supervised%20learning/Regression/Linear%20regression.md)
-		- [Penalized regression](Penalized%20regression.md)
+			- [Penalized regression](Penalized%20regression.md)
 	- [02-Unsupervised learning](Permanent%20notes/04-Machine%20learning%20algorithm/02-Unsupervised%20learning/README.md)
 		- [Clustering](Permanent%20notes/04-Machine%20learning%20algorithm/02-Unsupervised%20learning/Clustering/README.md)
 			- [K-nearest neighbor](K-nearest%20neighbor.md)
