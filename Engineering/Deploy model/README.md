@@ -1,2 +1,2 @@
-# 5.1. Deploy model
+# Deploy model
 

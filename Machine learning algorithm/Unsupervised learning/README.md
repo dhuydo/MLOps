@@ -1,2 +1,2 @@
-# 4.2. Unsupervised learning
+# Unsupervised learning
 
