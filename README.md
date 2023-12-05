@@ -11,7 +11,7 @@ This handbook was created in Dec 2023 in order to storing and systemizing the ne
 # Table of contents
 
 [Introduction](Permanent%20notes/README.md)
-1. [Math](Permanent%20notes/Math/README.md>)
+1. [Math](./Math/README.md)
 	- [Linear Algebra](Linear%20Algebra.md Math/Linear Algebra.md>)
 2. [Technical skills](Permanent%20notes/Technical%20skills/README.md Technical skills/README.md>)
 	- [Programming](Permanent%20notes/Technical%20skills/Programming/README.md Technical skills/Programming/README.md>)
