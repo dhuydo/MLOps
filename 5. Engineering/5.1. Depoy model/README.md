@@ -1,2 +1,2 @@
-# 5.1. Depoy model
+# 5.1. Deploy model
 
