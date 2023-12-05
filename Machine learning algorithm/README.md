@@ -1,2 +1,2 @@
-# 4. Machine learning algorithm
+# Machine learning algorithm
 

@@ -1,2 +1,2 @@
-# 3. Data science
+# Data science
 

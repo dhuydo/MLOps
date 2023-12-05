@@ -1,2 +1,2 @@
-# 2. Technical skills
+# Technical skills
 
