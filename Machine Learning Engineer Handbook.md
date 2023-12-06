@@ -10,7 +10,7 @@ This handbook was created in Dec 2023 in order to storing and systemizing the ne
 
 # Table of contents
 
-[Introduction](Machine%20Learning%20Engineer%20Handbook.md)
+[Introduction](./Machine%20Learning%20Engineer%20Handbook.md)
 1. [Math](./01-Math/README.md)
 	- [01-Linear Algebra](./01-Math/01-Linear%20Algebra.md)
 2. [Technical skills](./02-Technical%20skills/README.md)
