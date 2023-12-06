@@ -1,5 +1,6 @@
 ```python
 print(1)
 ```
-faef
-'''
+
+> [!abstract] hello my friend
+
